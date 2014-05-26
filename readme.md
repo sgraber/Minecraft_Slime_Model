@@ -1,6 +1,6 @@
 # Minecraft Slime
 
-**I am moving this design off of Thingiverse in protest of their attempt to patent designs originally conceived by the 3D printing community. This file can now be found on Github at **
+**I am moving this design off of Thingiverse in protest of their attempt to patent designs originally conceived by the 3D printing community. This file can now be found on Github at https://github.com/sgraber/Minecraft_Slime_Model.**
 
 **For more information, please see the following article: http://www.openbeamusa.com/blog/2014/5/22/stay-classy-makerbot**  
 
